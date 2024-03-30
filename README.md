@@ -1,2 +1,3 @@
-# art
-The Dragon Code logo and other artwork
+# The Dragon Code
+
+![The Dragon Code Art](logo/the-dragon-code-logo.svg)
