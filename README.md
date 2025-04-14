@@ -1,3 +1,3 @@
 # The Dragon Code
 
-![The Dragon Code Art](logo-type/the-dragon-code-logo.svg)
+![The Dragon Code Art](svg/big.svg)
